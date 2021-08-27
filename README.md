@@ -1,9 +1,9 @@
 ## Laravel Appointment Booking System Using TALL Stack
 
-#### Laravel
-#### Livewire
-#### Tailwind
-#### AlpineJs
+- Laravel
+- Livewire
+- Tailwind
+- AlpineJs
 
 Demo Project of An Booking System
 
