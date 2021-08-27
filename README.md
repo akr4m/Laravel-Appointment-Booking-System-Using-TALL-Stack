@@ -9,7 +9,10 @@ Demo Project of An Booking System
 
 ### Screenshots
 
+#### Booking Page
 ![Booking Page](https://user-images.githubusercontent.com/17238742/131124369-46db7fb6-8a40-4fd1-8976-b6cac2117ba8.jpg)
+
+#### After Booking
 ![Booking Complete](https://user-images.githubusercontent.com/17238742/131124379-efe00b08-033e-4b7f-8c08-975dac10bf55.jpg)
 
 
