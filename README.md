@@ -5,10 +5,10 @@
 - Tailwind
 - AlpineJs
 
-#### Demo Project of An Booking System
+### Demo Project of An Booking System
 
-+ Screenshots
-#### Booking Page
+#### Screenshots
++ Booking Page
 ![Booking Page](https://user-images.githubusercontent.com/17238742/131124597-7a4ec985-af7e-41fb-be77-45105c46104d.jpg)
 
 + After Booking
